@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://panteasaleh.github.io/pantea-busra/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in panteasaleh/pantea-busra project"
+        ]
+    },
+    "items": []
+}
