@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 39,
+    "height" : 51
+  }, {
+    "width" : 78,
+    "height" : 102
+  }, {
+    "width" : 155,
+    "height" : 203
+  }, {
+    "width" : 309,
+    "height" : 405
+  }, {
+    "width" : 617,
+    "height" : 810
+  }, {
+    "width" : 1233,
+    "height" : 1620
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1233,
+  "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1620
+}
