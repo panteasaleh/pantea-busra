@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://panteasaleh.github.io/pantea-busra/manifests/pantea-busra-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "amazon 1",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "amazon 1 annotation",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://7247e4bc-283c-4ed7-bfe2-9f84ec064a0a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://24799cf4-578d-4466-a8a3-e47969ca6a2c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1620,
+      "width" : 1233,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://daa0de0e-fb96-4c96-87b8-191487f24c9d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1620,
+          "width" : 1233
+        },
+        "on" : "http://24799cf4-578d-4466-a8a3-e47969ca6a2c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4a4370ab-09c6-4281-aa07-298fa96a2ece",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1200,
+      "width" : 1600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c90916d2-be9d-427f-afec-8cde1ee407b7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1200,
+          "width" : 1600
+        },
+        "on" : "http://4a4370ab-09c6-4281-aa07-298fa96a2ece"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://578ae5cf-61ca-4c7e-8c4d-540a6f9243a5",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1632,
+      "width" : 1224,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://30cd4e72-e6c1-4879-a91b-009bb01c8e40",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1632,
+          "width" : 1224
+        },
+        "on" : "http://578ae5cf-61ca-4c7e-8c4d-540a6f9243a5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://61328b8c-ca00-4b8a-8cb2-559fa159fb40",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1632,
+      "width" : 1224,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0432d453-b9dd-44dc-8e47-631a5137c25d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/AMAZON_4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1632,
+          "width" : 1224
+        },
+        "on" : "http://61328b8c-ca00-4b8a-8cb2-559fa159fb40"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bd970094-5e25-4873-b1cf-8af28eb7acd9",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1000,
+      "width" : 702,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://71111615-57e0-498f-be1e-ce08fafbe5dc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/imdb_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/imdb_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 702
+        },
+        "on" : "http://bd970094-5e25-4873-b1cf-8af28eb7acd9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c5b90b7d-300d-4acb-a18a-b7dabd2a0981",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 272,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f83ad399-7571-4297-88b3-db7d1c7790ad",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/imdb_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/imdb_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 272,
+          "width" : 640
+        },
+        "on" : "http://c5b90b7d-300d-4acb-a18a-b7dabd2a0981"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a83a32d3-a64c-4a9f-8ba2-51dd003a7593",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 474,
+      "width" : 474,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fe88dd67-215a-4baa-8112-5db11fa4e73c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/imdb_3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/imdb_3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 474,
+          "width" : 474
+        },
+        "on" : "http://a83a32d3-a64c-4a9f-8ba2-51dd003a7593"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://68ad036a-e8b7-4c2b-85e2-e7e4e8c99a96",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1000,
+      "width" : 750,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3a07a9a8-af98-40d6-8d54-da7e09d852c7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/yelp_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/yelp_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 750
+        },
+        "on" : "http://68ad036a-e8b7-4c2b-85e2-e7e4e8c99a96"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d00ff61d-0c67-4e5e-b768-24f2d5a34e39",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1000,
+      "width" : 750,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3faef5c0-d56c-4514-a2e2-edeec952a802",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/yelp_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/yelp_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1000,
+          "width" : 750
+        },
+        "on" : "http://d00ff61d-0c67-4e5e-b768-24f2d5a34e39"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4ccc49bc-caf0-4cd2-a6eb-c08a96c602ce",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 750,
+      "width" : 1000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://15a1aa78-7041-4694-be51-9ff0cbb0b81d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://panteasaleh.github.io/pantea-busra/images/yelp_3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://panteasaleh.github.io/pantea-busra/images/yelp_3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 750,
+          "width" : 1000
+        },
+        "on" : "http://4ccc49bc-caf0-4cd2-a6eb-c08a96c602ce"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
