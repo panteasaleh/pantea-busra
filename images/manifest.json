@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "AMAZON_2"
+                ]
+            },
+            "height": 1200,
+            "width": 1600,
+            "items": [
+                {
+                    "id": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 50,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 150
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 300
+                                            },
+                                            {
+                                                "width": 800,
+                                                "height": 600
+                                            },
+                                            {
+                                                "width": 1600,
+                                                "height": 1200
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1600,
+                                        "@id": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1200,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://panteasaleh.github.io/pantea-busra/images/AMAZON_1/canvas/",
             "type": "Canvas",
             "label": {
