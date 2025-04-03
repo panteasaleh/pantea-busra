@@ -1,0 +1,13 @@
+{
+  "id" : "https://panteasaleh.github.io/pantea-busra/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in panteasaleh/pantea-busra project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://panteasaleh.github.io/pantea-busra/manifests/pantea-busra-manifest.json",
+    "label" : "amazon 1"
+  } ]
+}
